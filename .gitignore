@@ -1,0 +1,3 @@
+# ignore txt  and json files
+*.txt
+*.json
